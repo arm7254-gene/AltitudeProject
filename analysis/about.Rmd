@@ -7,4 +7,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-Describe your project.
+Brief Background
+The adaptation of high-altitude populations is not only a compelling facet of human evolution but also a valuable window into physiological resilience and biological plasticity (Seifu et al., 2025). Most studies of high-altitude adaptation have focused on identifying signals of positive selection, particularly in genes related to oxygen transport and hemoglobin regulation. These findings often stop short of exploring the broader functional consequences of the adaptations they identify. Yet the hypoxia response is not a self-contained system: EPAS1 and EGLN1, the two most consistently replicated targets of selection in highland populations, encode core components of the hypoxia-inducible factor pathway, which also regulates inflammation, cytokine production, and immune cell differentiation. Consistent with this, the largest whole-genome scan of Tibetan highlanders to date identified HLA-DQB1 among its strongest selection signals and found it to be the most pleiotropic gene in its candidate set (Zheng et al., 2023). However, the immune implications of that signal were not pursued. 
+Working hypothesis
+Genetic variants under positive selection for hypoxia tolerance in high-altitude populations have pleiotropic consequences extending beyond oxygen sensing and transport, producing context-dependent trade-offs that shape disease susceptibility.
+
+Aim 1. Identify adaptive signals in human high-altitude populations and determine the physiological systems and evolutionary timescales over which they act, using Andean highlanders (Aymara and Quechua) as the primary discovery population.
+Aim 2. Test candidate loci for pleiotropic phenotypic associations and altitude-dependent trade-offs.
+Aim 3. Functionally test prioritized variants for context-dependent regulatory effects under hypoxic versus normoxic conditions.
+
